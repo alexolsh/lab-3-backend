@@ -1,0 +1,31 @@
+{
+  "name": "lab-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexolsh/KPP_Lab3_16.git"
+  },
+  "author": "alexols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexolsh/KPP_Lab3_16/issues"
+  },
+  "homepage": "https://github.com/alexolsh/KPP_Lab3_16#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "mongoose": "^5.12.14",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
